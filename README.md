@@ -1,1 +1,1 @@
-# SCI_implementation_1
+# SIC_implementation_1
